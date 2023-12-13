@@ -1,0 +1,30 @@
+Secuencia Didáctica
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1 Resolver los trabajos Prácticos N° 1 y 2, tal como se indicó en la clase anterior, incorporando las relaciones de extensión, inclusión y casos de uso temporales.
+2 Mirar el video con la resolución de los  Trabajos Prácticos N° 1 y 2.
+  https://youtu.be/ocDTPzHXc2w
+
+      3. Tienen disponible la presentación con la resolución del Trabajo Práctico en: Unidad_2_-_Segunda_Resolucion_TP_1_y_2.pdf   
+
+Leer el apunte de la Unidad 2- Análisis Funcional, la parte de Casos de Uso Secundarios y Diccionario de Datos desde la página 9 hasta la página 11(Inclusive).  El material está disponible en:11056-M02-Analisis_Funcional_1.pdf
+
+   5. Mirar el video correspondiente a la explicación de los contenidos teóricos de la Unidad 2, que trataremos hoy, Casos de Uso Secundarios y Diccionario de Datos.
+
+     https://youtu.be/AHRc527goRo
+
+También tienen disponible la presentación que se utilizó para grabar este video en: Unidad_2_-_Clase_3.pdf 
+
+Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+5. Completar el trabajo prácticos N° 1 y resolver el N° 2, tal como se indica al final del video:
+
+a. Identificar y agregar Casos de Uso Secundarios.
+
+b. Realizar las fichas de los casos de uso secundarios que agregaron al Diagrama.
+
+c. Desarrollar el Diccionario de Datos
+
+6. Desarrollar el Trabajo Práctico N° 3 completo.
+
+RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.

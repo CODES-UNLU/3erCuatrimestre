@@ -1,0 +1,15 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Hacer la Especificación de Requisitos del Software correspondiente al Caso de Uso “Ingresando Viaje” resultante de la Nota de Relevamiento perteneciente al Sistema de Viajes Remisería “El Rápido” (TP N°2 –Unidad 2). Deben hacer SOLO los apartados 1 y 2 completos y el apartado 3 solo para el Caso de Uso “Ingresando Viaje” 
+2. Mirar el video con la resolución, una vez que ustedes hicieron la SRS pedida para comparar lo realizado con la explicación correspondiente. En el mismo video se trata la parte restante de la Unidad 5: Criterios a Cumplir por una SRS.
+     https://youtu.be/gYJotSL661g  
+
+ Tienen disponible la presentación que utilizamos para la explicación de la resolución en:   Unidad_5_-_Clase_2_-_TP_SRS_y_Criterios.pdf 
+
+ Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+   3. Para el próximo encuentro, tienen que Leer el Material de Estudio de la Unidad N° 6 - Introducción a Herramientas CASE. El material se encuentra disponible en: Introducción a Herramientas CASE *  
+
+También les dejamos la resolución del Trabajo Práctico Integrado: Resolucion_Trabajo_practico_integrado_2023.pdf 
+
+    RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.

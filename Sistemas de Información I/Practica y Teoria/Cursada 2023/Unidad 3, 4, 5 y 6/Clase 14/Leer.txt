@@ -1,0 +1,13 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Resolver el Trabajo Práctico N° 7 de la Unidad 3 - Situación Académica, haciendo el Diagrama Entidad Relación a partir de los formularios que genera el sistema.
+
+2. Mirar el video correspondiente a la resolución de este trabajo práctico, después de haberlo resuelto ustedes       
+https://youtu.be/7oKPtDQSW8I
+  También tienen disponible la presentación que se utilizó para grabar este video en: Unidad_3_-_Clase_3_-_Resolucion_TP_2_Situacion_Academica.pdf 
+
+ Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+ 3. Para el próximo encuentro, tienen que resolver el Trabajo Práctico Integrado N° 2 Sistema Único de Boleto Electrónico SUBE. Tiene que aplicar todas las técnicas vistas hasta este momento, Propiedades Funcionales, Diagrama de Casos de Usos, Diccionario de Datos y diagrama Entidad Relación.
+
+   RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.

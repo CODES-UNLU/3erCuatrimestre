@@ -1,0 +1,30 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+Leer el apunte de la Unidad 2- Análisis Funcional, que está en el apartado Materiales de Estudio. Deben leer hasta la página 7(Inclusive)  11056-M02-Analisis_Funcional_1.pdf  
+Mirar el video correspondiente a la primer parte de esta clase, en el cual se presentan los contenidos teóricos de la Unidad 2, que trataremos hoy.
+   
+ https://youtu.be/zYD2DecSmAs
+3.En el apartado ARCHIVOS, también está la presentación utilizada para grabar este video con la explicación de esta clase.  Unidad_2_-_Explicacion_Clase_1.pdf 
+
+ 4: Resolver el trabajo Prácticos N° 1, tal como se indica al final del video:
+
+a. Definir las propiedades funcionales del Sistema. De esta manera determinamos que se encuentra dentro del alcance del sistema y que no es responsabilidad del sistema.
+b. Identificar los actores que interactúan con el sistema, ya siendo produciendo las entradas al sistema o recibiendo sus salidas. En este punto, es importante identificar en la nota de relevamiento QUIEN interactúa con el sistema. Ese es el actor.
+c. Realizar el diagrama de casos de uso (gráfica)
+d. Realizar la ficha de los casos de uso que encontraron.
+
+5. Mirar el video con la resolución del Trabajo Práctico N° 1.
+
+
+https://youtu.be/ZiGPBAk9e7A
+5. Tienen disponible la resolución que se utilizó para grabar el video en: Unidad_2_-_Resolucion_TP_1.pdf 
+
+6. Realizar el Trabajo Práctico N° 2, tal como se indica el final del video,  y leer la UNIDAD 2 - Análisis Funcional para la próxima clase. Deben leer desde la página 7 hasta la página 10(Inclusive).  El material está disponible en: 11056-M02-Analisis_Funcional_1.pdf  
+
+Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+ 
+
+RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.
+
+Tengan presente que en el Calendario de la Plataforma tienen definida la modalidad de cada clase y el link de acceso en caso que sea remota.

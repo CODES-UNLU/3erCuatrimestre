@@ -1,0 +1,15 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Leer el Material de Estudio de la Unidad N° 5 - Especificación de Requerimientos. El material se encuentra disponible en:  11056-M05-Especificación de Requerimientos *
+2. Mirar el video con la explicación correspondiente a la parte de un Standard para la Especificación de Requisitos presentado en la Unidad 5.
+       https://youtu.be/8gtSq354ASA 
+
+ Tienen disponible la presentación que utilizamos para la explicación, de esta parte de la Unidad 5 en:   Unidad_5_-_Clase_1_-_Explicacion_SRS.pdf 
+
+Y el Ejemplo de la SRS para el TP del Sistema de Biblioteca, que se utiliza en el video, en: Ejemplo_SRS_-_Biblioteca.pdf 
+
+ Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+   3. Para el próximo encuentro, tienen que hacer la Especificación de Requisitos del Software correspondiente al Caso de Uso “Ingresando Viaje” resultante de la Nota de Relevamiento perteneciente al Sistema de Viajes Remisería “El Rápido” (TP N°2 –Unidad 2). Deben hacer SOLO los apartados 1 y 2 completos y el apartado 3 solo para el Caso de Uso “Ingresando Viaje” . También trabajaremos en esa clase la parte restante de la Unidad 5: Criterios a Cumplir por una SRS.
+
+  RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.

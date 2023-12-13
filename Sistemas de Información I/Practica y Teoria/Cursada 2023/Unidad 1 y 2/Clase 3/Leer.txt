@@ -1,0 +1,27 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Resolver el Trabajo Práctico N° 2, tal como se indicó en la clase anterior.
+2. Mirar el video con la resolución del Trabajo Práctico N° 2.
+ https://youtu.be/mpOwKL5UY7w
+
+3. Tienen disponible la presentación con la resolución del Trabajo Práctico en: Unidad_2_-_Resolucion_TP_2.pdf 
+
+4. Leer el apunte de la Unidad 2- Análisis Funcional, que está en el apartado Materiales de Estudio. Deben leer desde la página 7 hasta la página 9 (Inclusive) 11056-M02-Analisis_Funcional_1.pdf  
+
+5. Mirar el video correspondiente a la explicación de los contenidos teóricos de la Unidad 2, que trataremos hoy, relaciones de extensión, inclusión y Casos de Uso Temporales.
+
+https://youtu.be/-rHrwnRm7nk  
+
+También tienen disponible la presentación que se utilizó para grabar este video en: Unidad_2_-_Clase_2_-_Explicacion.pdf 
+
+Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+6. Resolver los trabajos Prácticos N° 1 y 2, tal como se indica al final del video:
+
+a. Analizar si hay relaciones de extensión o inclusión en esos sistemas.
+b. Identificar los Casos de Uso Temporales e incorporarlos al diagrama.
+c. Realizar las fichas de los casos de uso que agregaron al Diagrama.
+
+7. Leer de la UNIDAD 2 - Análisis Funcional para la próxima clase, la parte de Casos de Uso Secundarios y Diccionario de Datos desde la página 9 hasta la página 11(Inclusive).  El material está disponible en: 11056-M02-Analisis_Funcional_1.pdf 
+
+RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.

@@ -1,0 +1,13 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Resolver el Trabajo Práctico N° 5 y el Adicional que hicimos en la unidad 2 (venta por internet) , realizando el modelo de datos mediante un Diagrama Entidad Relación.
+2. Mirar el video con la resolución de estos dos Trabajos Prácticos y analizar las diferencias que puedan existir con la resolución que ustedes hicieron.
+      https://youtu.be/fRywbOu2nWI
+
+   3. Tienen disponible la presentación que utilizamos para la resolución de estos dos trabajos prácticos en:  Unidad_3_-_Clase_3_-_Resolucion_TP_5_y_Adicional.pdf 
+
+   Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+  4. Para el próximo encuentro, tienen que resolver el Trabajo Práctico N° 7 de la Unidad 3 Situación Académica.
+
+   RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.

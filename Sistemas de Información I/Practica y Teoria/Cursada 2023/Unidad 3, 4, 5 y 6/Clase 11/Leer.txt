@@ -1,0 +1,13 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Leer la Unidad 3 - Modelo de Datos, la que está disponible en:  11056-M03-Modelo_de_Datos_-_2022.pdf  
+2. Mirar el video con la explicación de la Unidad 3 y la resolución del Trabajo Práctico N° 1.
+     https://youtu.be/i6V0EZ-f7Rs
+
+   3. Tienen disponible la presentación que se utilizó para esta clase en: Unidad_3_-_Clase_1_-_Teorica_y_Explicacion_TP_1_1.pdf 
+
+    Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+  4. Para el próximo encuentro tienen que resolver los Trabajos prácticos N° 2 y 3 (Remises y Escobas Plásticas) haciendo el Diagrama Entidad Relación usando el diccionario de datos que elaboramos en la unidad 2 y revisando los formularios que están al final de esa Unidad.
+
+   RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.

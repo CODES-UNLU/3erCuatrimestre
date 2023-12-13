@@ -1,0 +1,35 @@
+Secuencia Didáctica
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Resolver el Trabajo Práctico Integrado N° 3, que está al final del Material de Estudios de la Unidad 3, Solicitud de Vehículos para Discapacitados. 
+2. Mirar el video con la resolución de este Trabajo Práctico Integrado. 
+        https://youtu.be/BYCg4-dsXIU
+
+ Tienen disponible la presentación que utilizamos para la explicación de la resolución en:   Resolucion_TP_Integrado_N_3_-_Vehiculos_para_Discapacitados.pdf 
+
+Tal como se plantea al final del video, deben modificar los requerimientos funcionales de este sistema para automatizar el proceso. Tienen que modificar, entonces, la resolución que hicieron modificando el Modelo Funcional y el Modelo de Datos
+
+3. Mirar el video con la resolución del la Automatización de  este Trabajo Práctico Integrado. 
+https://youtu.be/IsI44lv6iXk
+  
+
+Tienen disponible la presentación que utilizamos para la explicación de la resolución de la automatización en: Resolucion_TP_Integrado_N_3_-_Vehiculos_para_Discapacitados_-_Automatizado.pdf 
+ 
+
+4. Ahora tienen que resolver el Segundo Parcial Anterior, el que se encuentra disponible en los Archivos de la clase 20.
+
+5. Mirar el video con la resolución del Segundo Parcial Anterior.
+https://youtu.be/EcAN_ha9nzY
+  
+
+Tienen disponible la presentación que utilizamos para la explicación de la resolución del Segundo Parcial Anterior en: Resolucion_Segundo_Parcial_Anterior.pdf 
+
+ Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+  El próximo encuentro es la Segunda Evaluación Parcial.
+
+  Dejamos en este Link el enunciado del Trabajo Práctico Integrado N° 2: Trabajo_Practico_Integrado_2_-_2023.pdf 
+
+ Y la resolución correspondiente de ese Trabajo Práctico Integrado N° 2: Resolucion_Trabajo_practico_integrado-_2-_2023.pdf 
+
+Tengan presente que en el Calendario de la Plataforma tienen definida la modalidad de cada clase y el link de acceso en caso que sea remota.

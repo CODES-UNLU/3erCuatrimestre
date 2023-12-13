@@ -1,0 +1,13 @@
+Para trabajar con este encuentro deberán llevar a cabo las siguientes actividades:
+
+1. Resolver el Trabajo Práctico Integrado N° 2, Sistema Único de Boleto Electrónico (SUBE) , aplicando todas las técnicas vistas hasta este momento, Propiedades Funcionales, Diagrama de Casos de Usos, Diccionario de Datos y diagrama Entidad Relación.
+2. Mirar el video con la resolución de estos dos Trabajos Prácticos y analizar las diferencias que puedan existir con la resolución que ustedes hicieron.
+       
+https://youtu.be/gAS5wU96k0g
+ Tienen disponible la presentación que utilizamos para la resolución de estos dos trabajos prácticos en:  Unidad_3_-_Clase_4_-_Resolucion_TP_Integrado_N_2_-_SUBE.pdf 
+
+ Tienen habilitado un “Foro para Preguntas y Consultas” en el cual pueden colocar inquietudes, preguntas, ideas, intervenciones. Iremos contestando o interviniendo para orientar.
+
+   3. Para el próximo encuentro, tienen que Leer el Material de Estudio de la Unidad N° 4 - Requerimientos. El material se encuentra disponible en: 11056-M04-Requerimientos * 
+
+   RECUERDEN: Es muy importante hagan el esfuerzo de realizar las actividades ANTES de la próxima clase.
